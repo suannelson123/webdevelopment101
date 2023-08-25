@@ -1,0 +1,6 @@
+<head> header
+<p> [paragraph]
+<!-- --> [comments para matandaan kung ano dapat ilagay sa part na yon]
+<h1> to <h6> [pinaka malaking header to pinaka maliit na header]
+<figure> 
+<figcaption> caption ng picture
