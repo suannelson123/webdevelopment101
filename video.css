@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background: url(/playground/img/Ben&Ben.jpg);
+    background-size: auto;
+}
+.center{
+    margin: 25%;
+}
+audio :hover , audio:focus , audio:active{
+    box-shadow: 15px 15px 20px rgb(0, 0, 0,0.4);
+    transform: scale(1.05);
+}
+audio{
+    transition: all 0.5s linear;
+    box-shadow: 2px 2px 4px 0px #006673;
+    border-radius: 7px;
+}
