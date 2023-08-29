@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background: url(/playground/img/momo\ hirai.webp);
+    background: url(img/momo\ hirai.webp);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -18,4 +18,47 @@ audio{
     transition: all 0.5s linear;
     box-shadow: 2px 2px 4px 0px #006673;
     border-radius: 7px;
+}
+
+h2{
+    color: green;
+    text-decoration: dashed; 
+}
+
+.index-pre{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+   
+}
+
+.index-h4{
+    text-align: center;
+    color: aliceblue;
+}
+
+.index-anchor{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.index-a{
+    text-decoration: none;
+    color: gree;
+}
+
+.index-button{
+    font-style:italic;
+    background-color: aqua;
+    font-size: large;
+    border-radius: 10px;
+}
+
+.index-ol{
+    text-decoration: none;
+}
+
+.blick {
+    background-color: #006673;
+    border-radius: 25px;
 }
